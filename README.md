@@ -2,6 +2,8 @@
 
 # 🐶 Web page to encourage adoption of abandoned dogs 'OPEN THE DOG' 🐶
 
+Project details -> <https://www.miricanvas.com/v/12tmsmn>
+
 ## Main Web Page
 
 ![readme_mockup2](https://cdn.discordapp.com/attachments/1178600686359949343/1202450708813844501/2024-02-01_11.02.34.gif?ex=65cd807d&is=65bb0b7d&hm=fb69ab9322337e147124d0056def076b5c857a7bfd21461b27099e1033d000ed&)
