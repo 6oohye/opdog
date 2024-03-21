@@ -17,9 +17,10 @@
 
 ## Responsive Main Page
 
-![readme_mockup2](https://github.com/6oohye/opdog/blob/main/Responsive1.png)
-![readme_mockup2](https://github.com/6oohye/opdog/blob/main/Responsive2.png)
-![readme_mockup2](https://github.com/6oohye/opdog/blob/main/Responsive3.png)
+<img width="500" alt="image" src="https://github.com/6oohye/opdog/blob/main/Responsive1.png">
+<img width="500" alt="image" src="https://github.com/6oohye/opdog/blob/main/Responsive2.png">
+<img width="500" alt="image" src="(https://github.com/6oohye/opdog/blob/main/Responsive3.png)">
+
 <br>
 
 ## 🎯 Development Purpose And Reason For Topic Selection
