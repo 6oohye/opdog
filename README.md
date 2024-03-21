@@ -1,5 +1,4 @@
-
-![egg](https://capsule-render.vercel.app/api?type=egg&color=FBF3D5&height=210)
+![shark](https://capsule-render.vercel.app/api?type=shark&color=FBF3D5&height=140)
 
 # 🐶 Web page to encourage adoption of abandoned dogs 'OPEN THE DOG' 🐶
 
