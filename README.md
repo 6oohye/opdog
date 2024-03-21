@@ -19,9 +19,7 @@
 
 ## Responsive Main Page
 
-<img width="500" alt="image" src="https://github.com/6oohye/opdog/blob/main/Responsive1.png">
-<img width="500" alt="image" src="https://github.com/6oohye/opdog/blob/main/Responsive2.png">
-<img width="500" alt="image" src="(https://github.com/6oohye/opdog/blob/main/Responsive3.png)">
+<img  alt="image" src="https://github.com/6oohye/opdog/blob/main/Responsive1.png](https://github.com/6oohye/opdog/blob/main/Responsive.JPEG">
 
 <br>
 
