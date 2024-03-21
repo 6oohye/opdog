@@ -7,7 +7,9 @@
 ## Main Web Page
 
 ![main1](https://github.com/6oohye/opdog/blob/main/main-f1%20(1).gif)
-![main2] (https://github.com/6oohye/opdog/blob/main/main-f2.gif)
+
+
+![main2](https://github.com/6oohye/opdog/blob/main/main-f2.gif)
 
 
 
