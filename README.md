@@ -47,7 +47,7 @@ kyeole Lee  (👨🏻‍💻):[dlrufp1213@naver.com](mailto:lrufp1213@naver.com)
 
 ## 🛠️ Development Environment
 
-![기술스택]([https://cdn.discordapp.com/attachments/1171279239325167616/1202887815889952768/Screenshot_2024-02-01_at_12.43.59_PM.png?ex=65cf1793&is=65bca293&hm=a9212b0d0ecc3f86051b43f5b69abd502676f62ebc201e5a1fc5818ebd33b9da&](https://github.com/6oohye/opdog/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-03-21%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.23.42.png))
+![기술스택](https://github.com/6oohye/opdog/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-03-21%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.23.42.png)
 
 <br>
 
