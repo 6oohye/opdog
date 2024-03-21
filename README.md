@@ -19,7 +19,7 @@
 
 ## Responsive Main Page
 
-<img  alt="image" src="https://github.com/6oohye/opdog/blob/main/Responsive.JPEG">
+<img  alt="image" src="https://github.com/6oohye/opdog/blob/main/Responsive.jpg">
 
 <br>
 
