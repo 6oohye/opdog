@@ -2,7 +2,7 @@
 
 # 🐶 Web page to encourage adoption of abandoned dogs 'OPEN THE DOG' 🐶
 
-**Project details** <https://www.miricanvas.com/v/12tmsmn>
+**Project details(Japanese/日本語)** <https://www.miricanvas.com/v/12tmsmn>
 
 ## Main Web Page
 
