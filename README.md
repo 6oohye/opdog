@@ -1,5 +1,9 @@
 # 🐶 Web page to encourage adoption of abandoned dogs 'OPEN THE DOG' 🐶
 
+## Soft <a id="soft">
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
+
 ## Main Web Page
 
 ![readme_mockup2](https://cdn.discordapp.com/attachments/1178600686359949343/1202450708813844501/2024-02-01_11.02.34.gif?ex=65cd807d&is=65bb0b7d&hm=fb69ab9322337e147124d0056def076b5c857a7bfd21461b27099e1033d000ed&)
