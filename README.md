@@ -82,7 +82,7 @@ kyeole Lee  (👨🏻‍💻):[dlrufp1213@naver.com](mailto:lrufp1213@naver.com)
 ## 🗓️ Timetable For The Development And Task Management
 <br>
 
-![readme_mockup2](https://cdn.discordapp.com/attachments/1171279239325167616/1202889485948289075/Screenshot_2024-02-01_at_12.58.31_PM.png?ex=65cf1922&is=65bca422&hm=255d841de550eb77e9b4a85b7ce898475faf26cce993e67cbef8b9cb732ba668&)
+![readme_mockup2](https://github.com/6oohye/opdog/blob/main/readmeTimetable.png)
 
 <br>
 
