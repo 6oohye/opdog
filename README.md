@@ -7,11 +7,13 @@
 ## Main Web Page
 
 ![main1](https://github.com/6oohye/opdog/blob/main/main-f1%20(1).gif)
+![main2] (https://github.com/6oohye/opdog/blob/main/main-f2.gif)
 
 
 
 <br>
-##  Responsive Main Page
+
+##Responsive Main Page
 
 ![readme_mockup2](https://cdn.discordapp.com/attachments/1178600686359949343/1202450708108939264/2024-02-01_11.15.29.gif?ex=65cd807d&is=65bb0b7d&hm=cf44b1118d5c1b8e3e5498ffd4ee05ab4f1efe4132cf4877cc0420c091f8fe0d&)
 <br>
